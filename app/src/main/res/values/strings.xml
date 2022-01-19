@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SendingAndManagingNetworkRequest</string>
+    <string name="checkNetwork">Network check</string>
+</resources>
